@@ -31,7 +31,7 @@
 		<java.version>17</java.version>
 		<sonar.projectKey>Test4</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>sqp_13494ac113bb02e9f9d92704f7951be81ed7e9a0</sonar.login>
+		<sonar.login>sqb_87759cf9d3d4488f7368692cb168166527e30123</sonar.login>
 	</properties>
 
 	<dependencies>
