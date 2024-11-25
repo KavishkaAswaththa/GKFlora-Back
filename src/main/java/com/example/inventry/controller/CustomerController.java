@@ -1,4 +1,4 @@
-package com.example.inventry.cotroller;
+package com.example.inventry.controller;
 
 import com.example.inventry.entity.Customer;
 import com.example.inventry.service.CustomerServices;

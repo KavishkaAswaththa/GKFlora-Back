@@ -1,6 +1,5 @@
 package com.example.inventry.controller;
 
-import com.example.inventry.cotroller.CustomerController;
 import com.example.inventry.entity.Customer;
 import com.example.inventry.service.CustomerServices;
 import org.junit.jupiter.api.BeforeEach;
